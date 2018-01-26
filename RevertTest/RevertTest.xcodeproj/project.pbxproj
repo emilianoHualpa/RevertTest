@@ -14,6 +14,7 @@
 		269F81D3201B1D4900AB4230 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 269F81D1201B1D4900AB4230 /* LaunchScreen.storyboard */; };
 		269F81E1201B27A400AB4230 /* ProviderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269F81E0201B27A400AB4230 /* ProviderViewController.swift */; };
 		269F81E5201B362A00AB4230 /* ProviderAnotherViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269F81E4201B362A00AB4230 /* ProviderAnotherViewController.swift */; };
+		269F81E7201B392600AB4230 /* 2ndViewControllerAgain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 269F81E6201B392600AB4230 /* 2ndViewControllerAgain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		269F81D4201B1D4900AB4230 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		269F81E0201B27A400AB4230 /* ProviderViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProviderViewController.swift; sourceTree = "<group>"; };
 		269F81E4201B362A00AB4230 /* ProviderAnotherViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProviderAnotherViewController.swift; sourceTree = "<group>"; };
+		269F81E6201B392600AB4230 /* 2ndViewControllerAgain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2ndViewControllerAgain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				269F81D4201B1D4900AB4230 /* Info.plist */,
 				269F81E0201B27A400AB4230 /* ProviderViewController.swift */,
 				269F81E4201B362A00AB4230 /* ProviderAnotherViewController.swift */,
+				269F81E6201B392600AB4230 /* 2ndViewControllerAgain.swift */,
 			);
 			path = RevertTest;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			files = (
 				269F81E1201B27A400AB4230 /* ProviderViewController.swift in Sources */,
 				269F81E5201B362A00AB4230 /* ProviderAnotherViewController.swift in Sources */,
+				269F81E7201B392600AB4230 /* 2ndViewControllerAgain.swift in Sources */,
 				269F81CB201B1D4900AB4230 /* ViewController.swift in Sources */,
 				269F81C9201B1D4900AB4230 /* AppDelegate.swift in Sources */,
 			);
